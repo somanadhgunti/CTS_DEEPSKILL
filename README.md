@@ -1,115 +1,126 @@
+# 🚀 Cognizant Digital Nurture 4.0 – Deep Skilling Program
 
-Hands-on Solutions & Practice Repository
-Java SQL GitHub
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-Overview
-This repository contains my solutions, hands-on exercises, notes, and project implementations completed as part of the Cognizant Digital Nurture 4.0 Deep Skilling Program.
+</p>
 
-The repository is organized week-wise and includes mandatory as well as additional hands-on exercises covering Java, SQL, .NET, ASP.NET Core, Microservices, Angular, and related technologies.
+## 📖 Overview
 
-Repository Structure
-DeepSkilling
+This repository contains my **hands-on solutions, coding exercises, notes, and project implementations** completed as part of the **Cognizant Digital Nurture 4.0 – Deep Skilling Program**.
+
+The content is organized **week-wise**, covering both **mandatory** and **additional** hands-on exercises. It serves as a personal learning repository for practicing modern software development concepts and tracking my progress throughout the program.
+
+---
+
+# 📂 Repository Structure
+
+```text
+DeepSkilling/
 │
-├── Week1
-│   ├── DesignPatterns
-│   ├── DataStructures
-│   ├── Notes
+├── Week1/
+│   ├── DesignPatterns/
+│   ├── DataStructures/
+│   ├── Notes/
 │   └── README.md
 │
-├── Week2
-│   ├── AdvancedSQL
-│   │   ├── 1. SQL Exercise - Advanced concepts
+├── Week2/
+│   ├── AdvancedSQL/
+│   │   ├── 1. SQL Exercise - Advanced Concepts
 │   │   ├── 2. SQL Exercise - Index
-│   │   ├── 4. SQL Exercise - Stored procedure
+│   │   ├── 4. SQL Exercise - Stored Procedure
 │   │   └── 5. SQL Exercise - Functions
 │   └── README.md
 │
-├── Week3
-│   ├── Entity Framework Core 8.0
-│   ├── NUnit and Moq
+├── Week3/
+│   ├── Entity Framework Core 8.0/
+│   ├── NUnit and Moq/
 │   └── README.md
 │
-├── Week4
-│   ├── ASP.NET Core 8.0 Web API
+├── Week4/
+│   ├── ASP.NET Core 8.0 Web API/
 │   └── README.md
 │
-├── Week5
-│   ├── Microservices Architecture using ASP.NET Core
+├── Week5/
+│   ├── Microservices Architecture/
 │   └── README.md
 │
-├── Week6
-│   ├── GIT
+├── Week6/
+│   ├── Git/
 │   └── README.md
 │
-├── Week7
-│   ├── Angular
+├── Week7/
+│   ├── Angular/
 │   └── README.md
 │
-└── UpSkilling
-Progress Tracker
-Week 1 – Design Patterns & Data Structures
-Design Patterns
- Exercise 1 – Singleton Pattern
- Exercise 2 – Factory Method Pattern
- Exercise 3 – Builder Pattern
-Data Structures & Algorithms
- Exercise 2 – E-commerce Platform Search Function
- Exercise 7 – Financial Forecasting
-Week 2 – Advanced SQL
-Mandatory Hands-on
- Exercise 1 – Ranking and Window Functions
- Exercise 1 – Create Stored Procedure
- Exercise 5 – Return Data From Stored Procedure
-Additional Important Hands-on
- Exercise 1 – Create Index
- Exercise 7 – Return Data From Scalar Function
-Week 3 – Entity Framework Core & NUnit
- In Progress
-Week 4 – ASP.NET Core Web API
- In Progress
-Week 5 – Microservices
- In Progress
-Week 6 – Git
- In Progress
-Week 7 – Angular
- In Progress
-Technologies Used
-Programming Languages
-Java
-SQL
-C#
-Frameworks & Platforms
-.NET 8
-ASP.NET Core Web API
-Entity Framework Core
-Angular
-Database
-MySQL
-SQL Concepts
-Stored Procedures
-Functions
-Indexing
-Window Functions
-Tools
-Visual Studio Code
-MySQL Workbench
-Git
-GitHub
-Notes
-Each exercise folder contains:
+└── Progress Tracker
+```
 
-Source Code
-Output Screenshots
-README Documentation
-Supporting Notes (where applicable)
-Author
-Mohammed Rawhan Ramzi
 
-Cognizant Digital Nurture 4.0 – Deep Skilling Program
+# 💻 Technologies Used
 
-This repository is maintained for:
+## Programming Languages
+- Java
+- SQL
+- C#
 
-Hands-on Practice
-Assessment Tracking
-Interview Preparation
-Skill Development
+## Frameworks & Platforms
+- .NET 8
+- ASP.NET Core Web API
+- Entity Framework Core
+- Angular
+
+## Database
+- MySQL
+
+## SQL Concepts
+- Stored Procedures
+- Functions
+- Views
+- Indexing
+- Window Functions
+
+## Tools
+- Visual Studio Code
+- Visual Studio
+- MySQL Workbench
+- Git
+- GitHub
+
+---
+
+# 📚 Repository Contents
+
+Each exercise folder may include:
+
+- 📄 Source Code
+- 📸 Output Screenshots
+- 📝 README Documentation
+- 📖 Supporting Notes (where applicable)
+
+---
+
+# 🎯 Purpose of this Repository
+
+This repository is maintained to:
+
+- Practice hands-on programming concepts
+- Track weekly learning progress
+- Complete Cognizant Digital Nurture assignments
+- Prepare for coding interviews
+- Strengthen software development skills
+- Maintain organized documentation for future reference
+
+---
+
+
+---
+
+# 👨‍💻 Author
+
+**Gunti Somanadh**
+
+---
