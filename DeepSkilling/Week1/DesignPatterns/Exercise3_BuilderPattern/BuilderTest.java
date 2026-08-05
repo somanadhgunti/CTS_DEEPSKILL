@@ -3,9 +3,9 @@ public class BuilderTest {
     public static void main(String[] args) {
 
         Computer pc = new Computer.Builder()
-                .setCpu("Intel i7")
+                .setCpu("AMD RYZEN 9,8940HX")
                 .setRam(16)
-                .setStorage(512)
+                .setStorage(1042)
                 .build();
 
         pc.display();
