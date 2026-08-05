@@ -1,4 +1,4 @@
-# 🚀 Cognizant Digital Nurture 4.0 – Deep Skilling Program
+# 🚀 Cognizant Digital Nurture 5.0 .NET FSE TRACK
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -10,7 +10,7 @@
 
 ## 📖 Overview
 
-This repository contains my **hands-on solutions, coding exercises, notes, and project implementations** completed as part of the **Cognizant Digital Nurture 4.0 – Deep Skilling Program**.
+This repository contains my **hands-on solutions, coding exercises, notes, and project implementations** completed as part of the **Cognizant Digital Nurture 5.0 – Deep Skilling Program**.
 
 The content is organized **week-wise**, covering both **mandatory** and **additional** hands-on exercises. It serves as a personal learning repository for practicing modern software development concepts and tracking my progress throughout the program.
 
